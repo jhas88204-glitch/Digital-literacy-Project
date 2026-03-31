@@ -16,6 +16,4 @@ Task 3 (Platforms): Beginner coding challenge completion and a Google Form-based
 
 Task 4 (Communication): Professional email drafts and a social media "Do's and Don'ts" guide.
 
-Task 5 (Cybercrime): A case study on cyber threats and a 'Stay Safe Online' prevention guide.
-
-GitHub Repository Link: https://github.com/krishnagll/digital-literacy-project
+Task 5 (Cybercrime): A case study on cyber threats and a 'Stay Safe Online' prevention gui
